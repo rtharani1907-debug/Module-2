@@ -20,9 +20,3 @@ print(f(a,b))
 
 ## Result
 Thus,the program is executed successfully.
-
-
-<img width="397" height="303" alt="Screenshot 2026-05-30 110212" src="https://github.com/user-attachments/assets/afe25807-e124-4163-8858-ba2293428012" />
-
-## Result
-Thus,the program is executed successfully.
